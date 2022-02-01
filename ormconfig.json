@@ -1,10 +1,10 @@
 {
     "type": "mysql",
-    "host": "localhost",
+    "host": "31.220.110.151",
     "port": 3306,
-    "username": "solz6148_solite_mega",
-    "password": "123qwe!@#QWE",
-    "database": "solz6148_solite_mega",
+    "username": "u232684745_tutorial",
+    "password": "Kotadepok01#",
+    "database": "u232684745_tutorial",
     "entities": ["dist/entity/**/*.js"],
     "synchronize" : true
  }
