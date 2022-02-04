@@ -22,5 +22,5 @@ app.use(authRoutes);
 app.use(userRoute);
 
 
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
 console.log("SERVER LISTEN PORT ",3000);
